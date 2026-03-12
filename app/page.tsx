@@ -286,10 +286,10 @@ export default function CarDetailingDemoWebsite() {
             </p>
 
             <div className="mt-8 grid gap-5 md:grid-cols-3">
-              <a href="mailto:hello@companyname.com" className="rounded-[1.5rem] border border-slate-200 bg-slate-50 p-6 transition hover:bg-slate-100">
+              <a href="https://wa.me/6591234567" className="rounded-[1.5rem] border border-slate-200 bg-slate-50 p-6 transition hover:bg-slate-100">
                 <p className="text-sm uppercase tracking-[0.2em] text-slate-500">Email</p>
-                <p className="mt-3 text-lg font-bold">hello@companyname.com</p>
-                <p className="mt-2 text-sm text-slate-600">Best for detailed enquiries and quotations.</p>
+                <p className="mt-3 text-lg font-bold">WhatsApp Chat</p>
+                <p className="mt-2 text-sm text-slate-600">Tap to start a WhatsApp conversation with the business.</p>
               </a>
 
               <a href="tel:+6591234567" className="rounded-[1.5rem] border border-slate-200 bg-slate-50 p-6 transition hover:bg-slate-100">
@@ -298,10 +298,10 @@ export default function CarDetailingDemoWebsite() {
                 <p className="mt-2 text-sm text-slate-600">Ideal for fast booking and availability checks.</p>
               </a>
 
-              <a href="https://instagram.com/companyname" target="_blank" rel="noreferrer" className="rounded-[1.5rem] border border-slate-200 bg-slate-50 p-6 transition hover:bg-slate-100">
+              <a href="https://instagram.com" target="_blank" rel="noreferrer" className="rounded-[1.5rem] border border-slate-200 bg-slate-50 p-6 transition hover:bg-slate-100">
                 <p className="text-sm uppercase tracking-[0.2em] text-slate-500">Instagram</p>
-                <p className="mt-3 text-lg font-bold">@companyname</p>
-                <p className="mt-2 text-sm text-slate-600">Great for social proof, DMs, and before/after content.</p>
+                <p className="mt-3 text-lg font-bold">Open Instagram</p>
+                <p className="mt-2 text-sm text-slate-600">Opens the Instagram homepage where clients can find the business profile.</p>
               </a>
             </div>
 
