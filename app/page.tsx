@@ -286,9 +286,9 @@ export default function CarDetailingDemoWebsite() {
             </p>
 
             <div className="mt-8 grid gap-5 md:grid-cols-3">
-              <a href="https://wa.me/6591234567" className="rounded-[1.5rem] border border-slate-200 bg-slate-50 p-6 transition hover:bg-slate-100">
+              <a href="https://wa.me/6586885329" className="rounded-[1.5rem] border border-slate-200 bg-slate-50 p-6 transition hover:bg-slate-100">
                 <p className="text-sm uppercase tracking-[0.2em] text-slate-500">Email</p>
-                <p className="mt-3 text-lg font-bold">WhatsApp Chat</p>
+                <p className="mt-3 text-lg font-bold">+WhatsApp Chat</p>
                 <p className="mt-2 text-sm text-slate-600">Tap to start a WhatsApp conversation with the business.</p>
               </a>
 
