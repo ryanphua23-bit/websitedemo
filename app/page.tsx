@@ -286,13 +286,13 @@ export default function CarDetailingDemoWebsite() {
             </p>
 
             <div className="mt-8 grid gap-5 md:grid-cols-3">
-              <a href="https://wa.me/6586885329" className="rounded-[1.5rem] border border-slate-200 bg-slate-50 p-6 transition hover:bg-slate-100">
+              <a href="https://mail.google.com" target="_blank" rel="noreferrer" className="rounded-[1.5rem] border border-slate-200 bg-slate-50 p-6 transition hover:bg-slate-100">
                 <p className="text-sm uppercase tracking-[0.2em] text-slate-500">Email</p>
-                <p className="mt-3 text-lg font-bold">+65 86885329</p>
-                <p className="mt-2 text-sm text-slate-600">Tap to start a WhatsApp conversation with the business.</p>
+                <p className="mt-3 text-lg font-bold">contact@company.com</p>
+                <p className="mt-2 text-sm text-slate-600">Tap to send an email to the business.</p>
               </a>
 
-              <a href="tel:+6586885329" className="rounded-[1.5rem] border border-slate-200 bg-slate-50 p-6 transition hover:bg-slate-100">
+              <a href="https://wa.me/6586885329" target="_blank" rel="noreferrer" className="rounded-[1.5rem] border border-slate-200 bg-slate-50 p-6 transition hover:bg-slate-100">
                 <p className="text-sm uppercase tracking-[0.2em] text-slate-500">Phone</p>
                 <p className="mt-3 text-lg font-bold">+65 8688 5329</p>
                 <p className="mt-2 text-sm text-slate-600">Ideal for fast booking and availability checks.</p>
